@@ -3,11 +3,8 @@ module Packages
   extend self
   def list
     {
-      'custom-database' => 
-      	[
-      		'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/CustomDatabase',
-      		'package.rb'
-      	],
+      'RME' => 'https://raw.githubusercontent.com/funkywork/RME/master/src/package.rb'
+      'custom-database' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/CustomDatabase/package.rb'
     }
   end
 end
