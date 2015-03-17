@@ -3,8 +3,11 @@ module Packages
   extend self
   def list
     {
-      'RME' => 'funkywork.com/test',
-      'nuki-Quest-system' => 'funkywork.come/quest',
+      'custom-database' => 
+      	[
+      		'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/CustomDatabase',
+      		'package.rb'
+      	],
     }
   end
 end
