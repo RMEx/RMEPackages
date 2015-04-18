@@ -13,7 +13,8 @@ module Packages
       'nuki-smooth-move' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/SmoothMove/package.rb',
       'standardize-rgss' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/StandardizeRGSS/package.rb',
       'tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/ToneTester/package.rb',
-      'EventExtender4' => 'https://raw.githubusercontent.com/Grimimi/EventExtender4/master/package.rb'
+      'EventExtender4' => 'https://raw.githubusercontent.com/Grimimi/EventExtender4/master/package.rb',
+      'nuki-break-scene' => 'https://github.com/nukiFW/RPGMaker/blob/master/break-scene/package.rb'
     }
   end
 end
