@@ -15,7 +15,7 @@ module Packages
       'tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/ToneTester/package.rb',
       'EventExtender4' => 'https://raw.githubusercontent.com/Grimimi/EventExtender4/master/package.rb',
       'nuki-break-scene' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/break-scene/package.rb',
-      'vincent26-floor-creator' => 'https://raw.githubusercontent.com/vincent26/RM/master/Map/package.rb'
+      'vincent26-floor-creator' => 'https://raw.githubusercontent.com/vincent26/RM/master/Map/Etage/package.rb'
     }
   end
 end
