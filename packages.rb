@@ -15,7 +15,13 @@ module Packages
       'tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/ToneTester/package.rb',
       'EventExtender4' => 'https://raw.githubusercontent.com/Grimimi/EventExtender4/master/package.rb',
       'nuki-break-scene' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/break-scene/package.rb',
-      'vincent26-floor-creator' => 'https://raw.githubusercontent.com/vincent26/RM/master/Map/Etage/package.rb'
+      'vincent26-floor-creator' => 'https://raw.githubusercontent.com/vincent26/RM/master/Map/Etage/package.rb',
+      'vincent26-maze-generator' => 'https://raw.githubusercontent.com/vincent26/RM/master/Divers/Maze_Generator/package.rb',
+      'vincent26-limiter_inv' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Limiteur/package.rb',
+      'vincent26-storage_chest' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Coffre_Stockage/package.rb',
+      'vincent26-weapon-upgrade' => 'https://raw.githubusercontent.com/vincent26/RM/master/Combats/Weapon_Upgrade/package.rb',
+      'vincent26-overlay-helper' => 'https://raw.githubusercontent.com/vincent26/RM/master/Utilitaire/Aide_overlay_mapping/package.rb',
+      'vincent26-multi-currency' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Multi_Monnaie/package.rb'
     }
   end
 end
