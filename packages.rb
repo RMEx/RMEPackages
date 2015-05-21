@@ -22,7 +22,8 @@ module Packages
       'vincent26-weapon-upgrade' => 'https://raw.githubusercontent.com/vincent26/RM/master/Combats/Weapon_Upgrade/package.rb',
       'vincent26-overlay-helper' => 'https://raw.githubusercontent.com/vincent26/RM/master/Utilitaire/Aide_overlay_mapping/package.rb',
       'vincent26-multi-currency' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Multi_Monnaie/package.rb',
-      'raho-useless' => 'https://raw.githubusercontent.com/hyperaho/RPGMaker/master/useless/package.rb'
+      'raho-useless' => 'https://raw.githubusercontent.com/hyperaho/RPGMaker/master/useless/package.rb',
+      'RME-tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/RMEToneTester/package.rb'
     }
   end
 end
