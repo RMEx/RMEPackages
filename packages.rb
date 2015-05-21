@@ -23,7 +23,8 @@ module Packages
       'vincent26-overlay-helper' => 'https://raw.githubusercontent.com/vincent26/RM/master/Utilitaire/Aide_overlay_mapping/package.rb',
       'vincent26-multi-currency' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Multi_Monnaie/package.rb',
       'raho-useless' => 'https://raw.githubusercontent.com/hyperaho/RPGMaker/master/useless/package.rb',
-      'RME-tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/RMEToneTester/package.rb'
+      'RME-tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/RMEToneTester/package.rb',
+      'event-printer' => 'https://raw.githubusercontent.com/ZangtherRGSS3/Scripts/master/EventPrinter/package.rb'
     }
   end
 end
