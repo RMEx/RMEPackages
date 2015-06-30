@@ -1,4 +1,6 @@
 Kernel.send('load', 'packages.rb')
 Packages.list.each do |k, v|
-  system("curl -o packages/#{k}.rb v")
+  path = "packages/raws/#{k}.rb"
+  system("curl -o #{path} #{v}")
+  system("ruby createPage.rb #{path}")
 end
