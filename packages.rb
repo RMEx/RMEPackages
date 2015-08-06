@@ -26,6 +26,7 @@ module Packages
       'RME-tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/RMEToneTester/package.rb',
       'event-printer' => 'https://raw.githubusercontent.com/ZangtherRGSS3/Scripts/master/EventPrinter/package.rb',
       'nuki-sample-script' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/nuki-sample-script/package.rb',
+      'zangther-ring-menu' => 'https://raw.githubusercontent.com/ZangtherRGSS3/Scripts/master/RingMenu/package.rb'
     }
   end
 end
