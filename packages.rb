@@ -24,6 +24,7 @@ module Packages
       'vincent26-multi-currency' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Multi_Monnaie/package.rb',
       'raho-useless' => 'https://raw.githubusercontent.com/hyperaho/RPGMaker/master/useless/package.rb',
       'fpilot-element-rates-menu' => 'https://raw.githubusercontent.com/FalconPilot/scripts_vx_ace/master/Element_rates_menu/package.rb',
+      'fpilot-battlers-anims' => 'https://raw.githubusercontent.com/FalconPilot/scripts_vx_ace/master/Breathing_flying_animations/package.rb',
       'RME-tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/RMEToneTester/package.rb',
       'event-printer' => 'https://raw.githubusercontent.com/ZangtherRGSS3/Scripts/master/EventPrinter/package.rb',
       'nuki-sample-script' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/nuki-sample-script/package.rb',
